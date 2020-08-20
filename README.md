@@ -31,4 +31,4 @@ select from the console an option from 1 to 4 and has the choice to repeat the p
 again. Option 4 allows the user to quit the application.
 
 5. Lastly, the Javadoc is located in the “docs” folder. To view it, simply click on the
-index.html page.
+index page.
