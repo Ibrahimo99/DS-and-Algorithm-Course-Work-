@@ -15,7 +15,7 @@ BookList and BookNode classes. We created 5 Books in this class with respective
 data using the available setter methods in the Book class. We also instantiate the
 BookList class to add all 5 Books into the BookList LinkedList. The constructor of
 the BookList class allows us to create a Book as a BookNote. So every Book is a
-1BookNode that has reference to the next BookNode. This is seen in the BookNode
+BookNode that has reference to the next BookNode. This is seen in the BookNode
 class.
 
 3. Binary Search Tree Tester class: This class test the implementation of methods in
@@ -30,5 +30,5 @@ test any one of the Tester class implementation of these classes. So the user ge
 select from the console an option from 1 to 4 and has the choice to repeat the process
 again. Option 4 allows the user to quit the application.
 
-5. Lastly, the Javadoc is located in the “docs” folder. To view it, simply click on the
+5. Lastly, the Javadoc is located in the "doc" folder. To view it, simply click on the
 index page.
