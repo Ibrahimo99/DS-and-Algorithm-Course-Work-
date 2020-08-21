@@ -14,7 +14,11 @@ class that calls and prints all the data available in the getter methods of thes
 BookList and BookNode classes. We created 5 Books in this class with respective
 data using the available setter methods in the Book class. We also instantiate the
 BookList class to add all 5 Books into the BookList LinkedList. The constructor of
+<<<<<<< HEAD
 the BookList class allows us to create a Book as a BookNote. So every Book is a
+=======
+the BookList class allows us to create a Book as a BookNote. So every Book is a 
+>>>>>>> 44ecaee71b4308966ccc25bcfc4f70b8365a47f7
 BookNode that has reference to the next BookNode. This is seen in the BookNode
 class.
 
