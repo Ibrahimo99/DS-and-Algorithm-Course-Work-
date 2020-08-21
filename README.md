@@ -14,8 +14,8 @@ class that calls and prints all the data available in the getter methods of thes
 BookList and BookNode classes. We created 5 Books in this class with respective
 data using the available setter methods in the Book class. We also instantiate the
 BookList class to add all 5 Books into the BookList LinkedList. The constructor of
-the BookList class allows us to create a Book as a BookNote. So every Book is a
-1BookNode that has reference to the next BookNode. This is seen in the BookNode
+the BookList class allows us to create a Book as a BookNote. So every Book is a 
+BookNode that has reference to the next BookNode. This is seen in the BookNode
 class.
 
 3. Binary Search Tree Tester class: This class test the implementation of methods in
